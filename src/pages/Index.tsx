@@ -341,7 +341,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 EduTest. Все права защищены.</p>
+            <p>© 2025 АБ Тест. Все права защищены.</p>
           </div>
         </div>
       </footer>
