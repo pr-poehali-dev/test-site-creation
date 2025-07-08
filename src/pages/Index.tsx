@@ -106,7 +106,7 @@ const Index = () => {
               </a>
               <a
                 href="#"
-                className="text-gray-700 hover:text-primary font-medium"
+                className="text-gray-700 hover:text-primary font-bold"
               >
                 База знаний
               </a>
