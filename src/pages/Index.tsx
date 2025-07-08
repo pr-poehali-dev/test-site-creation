@@ -64,7 +64,11 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-3">
-              <Icon name="GraduationCap" size={32} className="text-primary" />
+              <img
+                src="/img/02a4f415-bd7b-40ac-a4e0-abec63d6a249.jpg"
+                alt="EduTest Logo"
+                className="w-10 h-10 rounded-lg"
+              />
               <h1 className="text-2xl font-bold text-gray-900">EduTest</h1>
             </div>
             <nav className="hidden md:flex space-x-8">
