@@ -273,7 +273,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="GraduationCap" size={24} className="text-primary" />
-                <span className="text-xl font-bold">АБ тест</span>
+                <span className="text-xl font-bold">АБ Тест</span>
               </div>
               <p className="text-gray-400">
                 Современная платформа для образовательного тестирования
