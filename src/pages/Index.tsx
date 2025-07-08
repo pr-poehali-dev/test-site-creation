@@ -69,7 +69,7 @@ const Index = () => {
                 alt="EduTest Logo"
                 className="w-10 h-10 rounded-lg"
               />
-              <h1 className="text-2xl font-bold text-gray-900 px-0 mx-1">
+              <h1 className="text-2xl text-gray-900 px-0 mx-1 font-extrabold text-left">
                 Автоматизация бизнеса
               </h1>
             </div>
