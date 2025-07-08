@@ -140,8 +140,7 @@ const Index = () => {
               Начать тестирование
             </Button>
             <Button variant="outline" size="lg" className="px-8 py-3">
-              <Icon name="BookOpen" size={20} className="mr-2" />
-              Изучить возможности
+              Изучить правила
             </Button>
           </div>
         </div>
