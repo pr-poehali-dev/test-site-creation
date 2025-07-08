@@ -182,8 +182,7 @@ const Index = () => {
               Категории тестов
             </h3>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Широкий выбор предметов и дисциплин для полноценного
-              образовательного процесса
+              Вся структура и процесс компании АБ
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
